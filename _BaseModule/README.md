@@ -1,11 +1,11 @@
 # Polish Vanilla Theme Overrider 
 
-Hello and Hallo. This is a **EU** and **NA** Vanilla Theme Overrider that turns Vanilla Signs, Roadmarkings and Decals to German ones.
+Hello and Hallo. This is a **EU** and **NA** Vanilla Theme Overrider that turns Vanilla Signs, Roadmarkings and Decals to Polish ones.
 
-### Functions
+## Functions
 - Works **automaticly**, you don't need any knowledge whatsoever!
 - Dynamic working Street Signs
-- Dynamic working Bus/Tram Signs with max. 3 Lines displayed
+- Dynamic working Bus/Tram Signs with max. 7 Lines displayed
 - Bicycle Parking Spots
 - 3D Model Signs
 
@@ -24,7 +24,8 @@ Hello and Hallo. This is a **EU** and **NA** Vanilla Theme Overrider that turns 
 ##  Credits and Special Thanks
 - To **Klyte45** for the WriteEverywhere mod.
 - **Klyte45**s [Vanilla Theme Override Mod](https://mods.paradoxplaza.com/mods/106877/Windows), without that I would have lost my mind.
-- 
+
+
 ---
 
 ##  Enjoy & Share Your Feedback!

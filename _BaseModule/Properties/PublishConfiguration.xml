@@ -1,16 +1,15 @@
 <Publish>
-  <ModId Value="123745" />
-  <DisplayName Value="German Vanilla Sign Overrider (WE-Module)" />
-  <ShortDescription Value="A WriteEverywhere-Module that replaces Vanilla Signs with German ones." />
-  <LongDescription># German Vanilla Theme Overrider 
+  <ModId Value="" />
+  <DisplayName Value="Polish Vanilla Sign Overrider (WE-Module)" />
+  <ShortDescription Value="A WriteEverywhere-Module that replaces Vanilla Signs with Polish ones." />
+  <LongDescription># Polish Vanilla Theme Overrider 
 
-Hello and Hallo. This is a **EU** and **NA** Vanilla Theme Overrider that turns Vanilla Signs, Roadmarkings and Decals to German ones.
+Hello and Hallo. This is a **EU** and **NA** Vanilla Theme Overrider that turns Vanilla Signs, Roadmarkings and Decals to Polish ones.
 
-### Functions
+## Functions
 - Works **automaticly**, you don't need any knowledge whatsoever!
-- Variable working Street Signs
-- Variable working Bus/Tram Signs with max. 5 Lines displayed
-	- Style based on Ruhrbahn Essen Signs
+- Dynamic working Street Signs
+- Dynamic working Bus/Tram Signs with max. 7 Lines displayed
 - Bicycle Parking Spots
 - 3D Model Signs
 
@@ -21,8 +20,7 @@ Hello and Hallo. This is a **EU** and **NA** Vanilla Theme Overrider that turns 
 
 ---
 
-##  Check out the corrosponding Sign Pack or the other Country Packs/Overrider
-- [German Signs](https://mods.paradoxplaza.com/mods/120627/Windows)
+##  Check out the other Country Packs/Overrider
 - [Other Countries](https://mods.paradoxplaza.com/authors/UnMaestro)
 
 ---
@@ -30,25 +28,23 @@ Hello and Hallo. This is a **EU** and **NA** Vanilla Theme Overrider that turns 
 ##  Credits and Special Thanks
 - To **Klyte45** for the WriteEverywhere mod.
 - **Klyte45**s [Vanilla Theme Override Mod](https://mods.paradoxplaza.com/mods/106877/Windows), without that I would have lost my mind.
-- 
+
+
 ---
 
 ##  Enjoy &amp; Share Your Feedback!</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/german-vanilla-sign-overrider-we-module.1866186" />
-  <ModVersion Value="1.2.0" />
+  <ModVersion Value="1.0.0" />
   <GameVersion Value="1.*" />
-  <ChangeLog>## Ver 1.2 Update
-### Added
-- 3D Models for 95% of the signs
-- NA Theme Support</ChangeLog>
+  <ChangeLog>Initial Release</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshot_1.jpg" />
   <Screenshot Value="Screenshots\Screenshot_2.jpg" />
   <Screenshot Value="Screenshots\Screenshot_3.jpg" />
   <Screenshot Value="Screenshots\Screenshot_4.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
-  <ExternalLink Type="github" Url="https://github.com/UnMaestro/Maestros-CS2-GermanOverrider" />
+  <ExternalLink Type="github" Url="https://github.com/UnMaestro/Maestros-CS2-PolishOverrider" />
   <ExternalLink Type="discord" Url="https://discord.com/channels/1024242828114673724/1446097301775843488" />
   <ExternalLink Type="paypal" Url="https://www.paypal.com/paypalme/pas1800" />
 </Publish>
