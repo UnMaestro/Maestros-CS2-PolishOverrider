@@ -35,7 +35,7 @@
         <arraySpacing x="0" y="0" z="0" />
       </transform>
       <textMesh fontName="Drogowskaz" rescaleHeightOnTextOverflow="true">
-        <text>123</text>
+        <text formulae="&amp;StationEntranceVisuals.Formulas.LinesUtils;GetLineData.GetDisplayName">.</text>
         <MaxWidthMeters>0.125</MaxWidthMeters>
       </textMesh>
       <defaultStyle>
