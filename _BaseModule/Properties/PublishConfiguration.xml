@@ -23,16 +23,16 @@ Hello and Cześć. This is a **EU** and **NA** Vanilla Theme Overrider that turn
 ##  Credits and Special Thanks
 - To **Klyte45** for the WriteEverywhere mod.
 - **Klyte45**s [Vanilla Theme Override Mod](https://mods.paradoxplaza.com/mods/106877/Windows), without that I would have lost my mind.
-- **kstsk** for the implementation of an working line-listing on Station Stops
+- **kstsk** for the implementation of an working line-listing on Station Stops and Polish Roadmarkings
 
 ##  Enjoy &amp; Share Your Feedback!</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/polish-vanilla-sign-overrider-we-module.1889287/" />
-  <ModVersion Value="1.1.0" />
+  <ModVersion Value="1.1.1" />
   <GameVersion Value="1.*" />
-  <ChangeLog># Version 1.1
-- Added
-    - Working Line Listing thanks to kstsk</ChangeLog>
+  <ChangeLog>## Version 1.1.1
+### Added
+- Polish Roadmarkings from kstsk</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshot_1.jpg" />
   <Screenshot Value="Screenshots\Screenshot_2.jpg" />
